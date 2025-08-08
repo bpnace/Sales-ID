@@ -1,0 +1,20 @@
+"overlay_title" = "Live Vorschlag";
+"ai_active" = "KI aktiv";
+
+"consent_title" = "Einverständnis für Live-Mitschnitt";
+"consent_body" = "Ich stimme zu, dass während dieses Gesprächs Bildschirm und Mikrofon lokal verarbeitet werden, um kurze Vorschläge zu erzeugen. Es erfolgt keine Speicherung ohne meine ausdrückliche Zustimmung.";
+"consent_scope_call" = "Nur aktueller Anruf";
+"consent_scope_all" = "Alle Anrufe";
+"consent_scope_call" = "Nur aktueller Anruf";
+"consent_accept" = "Zustimmen";
+"consent_decline" = "Ablehnen";
+
+"mic_permission_needed" = "Mikrofonzugriff benötigt. Bitte in Systemeinstellungen > Datenschutz & Sicherheit erlauben.";
+"screen_permission_needed" = "Bildschirmaufnahme benötigt. Bitte in Systemeinstellungen > Datenschutz & Sicherheit erlauben und App neu starten.";
+
+"privacy_title" = "Datenschutz";
+"privacy_explain" = "Verarbeitung erfolgt lokal. Sensible Inhalte verbleiben auf diesem Gerät. In den Einstellungen können Sie Daten exportieren oder löschen.";
+"export_button" = "Daten exportieren";
+"delete_button" = "Daten löschen";
+
+
