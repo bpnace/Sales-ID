@@ -6,6 +6,8 @@
 ![macOS](https://img.shields.io/badge/macOS-14%2B-111827?style=flat-square&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-16-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Status](https://img.shields.io/badge/status-AI_sales_copilot_case-1F2937?style=flat-square)
+![Security](https://img.shields.io/badge/security-Dependabot_%2B_CodeQL-2ea043?style=flat-square)
+![License](https://img.shields.io/badge/license-proprietary_portfolio_review-6B7280?style=flat-square)
 ![Privacy](https://img.shields.io/badge/privacy-consent_first-2ea043?style=flat-square)
 ![Local Services](https://img.shields.io/badge/local_services-STT_RAG_LLM-0ea5e9?style=flat-square)
 
