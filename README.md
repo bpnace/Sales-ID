@@ -1,9 +1,13 @@
 # SalesID for macOS
 
-![Swift](https://img.shields.io/badge/Swift-macOS-F05138?logo=swift&logoColor=white)
-![Status](https://img.shields.io/badge/status-AI_sales_copilot_case-1F2937)
-![Privacy](https://img.shields.io/badge/privacy-consent_first-2ea043)
-![Local Services](https://img.shields.io/badge/local_services-STT_RAG_LLM-0ea5e9)
+[![CI](https://github.com/bpnace/Sales-ID/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bpnace/Sales-ID/actions/workflows/ci.yml)
+![Version](https://img.shields.io/badge/version-case_study-2563EB?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-5-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-14%2B-111827?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-16-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Status](https://img.shields.io/badge/status-AI_sales_copilot_case-1F2937?style=flat-square)
+![Privacy](https://img.shields.io/badge/privacy-consent_first-2ea043?style=flat-square)
+![Local Services](https://img.shields.io/badge/local_services-STT_RAG_LLM-0ea5e9?style=flat-square)
 
 SalesID is an AI sales copilot case for macOS. It explores how a consent-first
 desktop overlay can assist live calls by combining screen context, OCR, speech
