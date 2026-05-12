@@ -1,6 +1,21 @@
 # SalesID for macOS
 
-SalesID is an on-screen copilot for live calls. It captures screen and audio, performs OCR and streaming speech-to-text, enriches context via a local RAG store, and renders ultra-short German suggestions in a compact floating overlay.
+![Swift](https://img.shields.io/badge/Swift-macOS-F05138?logo=swift&logoColor=white)
+![Status](https://img.shields.io/badge/status-AI_sales_copilot_case-1F2937)
+![Privacy](https://img.shields.io/badge/privacy-consent_first-2ea043)
+![Local Services](https://img.shields.io/badge/local_services-STT_RAG_LLM-0ea5e9)
+
+SalesID is an AI sales copilot case for macOS. It explores how a consent-first
+desktop overlay can assist live calls by combining screen context, OCR, speech
+transcription, local retrieval, and short German response suggestions.
+
+## What this shows
+
+- Native macOS overlay UX for real-time sales assistance
+- Consent-gated capture flow before screen or microphone access starts
+- ScreenCaptureKit plus Vision OCR for contextual screen understanding
+- Local service boundaries for STT, RAG, and LLM routing
+- Compact German suggestion UI designed for live-call pressure
 
 ## Status
 - Overlay UI implemented with frosted background, compact default size (220x84), and German localization
