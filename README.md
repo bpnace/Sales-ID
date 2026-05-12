@@ -9,9 +9,35 @@
 ![Privacy](https://img.shields.io/badge/privacy-consent_first-2ea043?style=flat-square)
 ![Local Services](https://img.shields.io/badge/local_services-STT_RAG_LLM-0ea5e9?style=flat-square)
 
+![SalesID copilot flow](docs/assets/salesid-copilot-flow.svg)
+
 SalesID is an AI sales copilot case for macOS. It explores how a consent-first
 desktop overlay can assist live calls by combining screen context, OCR, speech
 transcription, local retrieval, and short German response suggestions.
+
+## Case study
+
+### Problem
+Sales teams need fast context during calls, but a live assistant becomes risky
+if it captures screen or microphone data without explicit consent and clear
+local boundaries.
+
+### Solution
+I framed SalesID as a native macOS copilot case with a consent-first overlay,
+ScreenCaptureKit context capture, Vision OCR, STT scaffolding, local RAG/LLM
+service boundaries, and compact German response suggestions.
+
+### Engineering decisions
+- Require consent before screen or microphone capture starts
+- Keep overlay UI compact enough for live-call pressure
+- Split OCR, STT, RAG, and LLM responsibilities into explicit service boundaries
+- Prefer local localhost services for the case-study architecture
+- Treat privacy and permission UX as a product signal, not an afterthought
+
+### Outcome
+SalesID reads as a focused AI sales copilot case: native UI, real-time context,
+privacy-aware capture, and practical AI assistance rather than a generic chat
+wrapper.
 
 ## What this shows
 

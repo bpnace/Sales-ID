@@ -1,0 +1,31 @@
+<svg width="1440" height="720" viewBox="0 0 1440 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="720" fill="#0A0F1A"/>
+  <rect x="62" y="60" width="1316" height="600" rx="30" fill="#101827" stroke="#273449" stroke-width="2"/>
+  <text x="104" y="130" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="42" font-weight="700">SalesID macOS AI Sales Copilot</text>
+  <text x="104" y="170" fill="#94A3B8" font-family="Arial, sans-serif" font-size="20">Consent-first live-call assistance with OCR, STT, retrieval, and compact overlay suggestions.</text>
+  <g font-family="Arial, sans-serif" font-size="20" font-weight="700">
+    <rect x="104" y="252" width="200" height="92" rx="18" fill="#1E293B" stroke="#38BDF8"/>
+    <text x="139" y="306" fill="#E0F2FE">Consent gate</text>
+    <rect x="370" y="252" width="200" height="92" rx="18" fill="#1E293B" stroke="#A78BFA"/>
+    <text x="410" y="294" fill="#F5F3FF">Screen</text>
+    <text x="426" y="322" fill="#F5F3FF">OCR</text>
+    <rect x="636" y="252" width="200" height="92" rx="18" fill="#1E293B" stroke="#34D399"/>
+    <text x="675" y="294" fill="#ECFDF5">Speech</text>
+    <text x="687" y="322" fill="#ECFDF5">STT</text>
+    <rect x="902" y="252" width="200" height="92" rx="18" fill="#1E293B" stroke="#F59E0B"/>
+    <text x="959" y="294" fill="#FEF3C7">RAG</text>
+    <text x="955" y="322" fill="#FEF3C7">LLM</text>
+    <rect x="1168" y="252" width="170" height="92" rx="18" fill="#F8FAFC"/>
+    <text x="1199" y="294" fill="#111827">Overlay</text>
+    <text x="1190" y="322" fill="#111827">Suggestion</text>
+  </g>
+  <g stroke="#64748B" stroke-width="4" stroke-linecap="round">
+    <path d="M304 298H370"/>
+    <path d="M570 298H636"/>
+    <path d="M836 298H902"/>
+    <path d="M1102 298H1168"/>
+  </g>
+  <rect x="210" y="458" width="1020" height="94" rx="18" fill="#162033" stroke="#334155"/>
+  <text x="250" y="497" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="22" font-weight="700">Privacy signal</text>
+  <text x="250" y="532" fill="#94A3B8" font-family="Arial, sans-serif" font-size="18">Capture starts only after consent. Local services keep transcription, retrieval, and suggestions behind explicit localhost boundaries.</text>
+</svg>
